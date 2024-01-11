@@ -21,7 +21,7 @@ int main() {
     for(int i = n; i != 0; i/=10) {
         int lg = i%10;
         sum += (lg*lg*lg);
-        // bz of the above gllitch , I used (lg*lg*lg) istead of pow function
+        // bz of the above glitch , I used (lg*lg*lg) instead of pow function
     }
 
     if(sum == n) {
