@@ -15,9 +15,9 @@ int main() {
         }
     }
 
-    if(i == n) {
+    // if(i == n) {
         cout<<n<<" is a Prime number\n";
-    }
+    // }
 
     return 0;
 }
