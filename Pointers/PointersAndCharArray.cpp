@@ -11,7 +11,7 @@ int main() {
     cout << ch << endl;  //output - abcd
 
     //If you closely look, you'll notice that array ch has 4 characters
-    //but its size is 5, this is bz the last sapce is occupoied by the NULL character'\0'
+    //but its size is 5, this is bz the last sapce is occupied by the NULL character'\0'
     //this space is preoccupied, we can't change it
     //that's why cout will always print the whole array bz at the end there is a NULL charater
 

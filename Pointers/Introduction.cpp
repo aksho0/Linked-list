@@ -10,7 +10,7 @@ using namespace std;
 int main() {
 
     //Pointers hold the address of any other variable
-    //To declare a pointer we use derefrence operator or astric sign or (*)
+    //To declare a pointer we use astric sign or (*)
     
     int a = 7;
     int *ptr = &a;  //Here ptr is a pointer to int holding the address of variable a
